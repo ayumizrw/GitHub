@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bottom_bar9.png",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\drawable-hdpi\\bottom_bar9.png"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_bar9.png",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\drawable-hdpi\\title_bar9.png"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_address_normal.png",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\drawable-hdpi\\tab_address_normal.png"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_find_frd_pressed.png",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_pressed.png"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_address_pressed.png",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\drawable-hdpi\\tab_address_pressed.png"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_bg2.png",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\drawable-hdpi\\tab_bg2.png"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_settings_normal.png",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_normal.png"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_weixin_normal.png",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\drawable-hdpi\\tab_weixin_normal.png"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_settings_pressed.png",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_pressed.png"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_weixin_pressed.png",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\drawable-hdpi\\tab_weixin_pressed.png"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_find_frd_normal.png",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_normal.png"
+    }
+]

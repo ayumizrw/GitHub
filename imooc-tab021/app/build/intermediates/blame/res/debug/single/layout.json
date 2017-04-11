@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nav_list_view.xml",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\layout\\activity_nav_list_view.xml"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab02.xml",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\layout\\tab02.xml"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab01.xml",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\layout\\tab01.xml"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab04.xml",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\layout\\tab04.xml"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_header.xml",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top.xml",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\layout\\top.xml"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom.xml",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\layout\\bottom.xml"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab03.xml",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\layout\\tab03.xml"
+    },
+    {
+        "merged": "F:\\360\\demo\\imooc-tab021\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\360\\demo\\imooc-tab021\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
